@@ -1,0 +1,7 @@
+
+colourhunt.co - to get colour plattes
+
+fonst.google.com for free custom fonts 
+ >>> need to past the <link> element for all the custom fonts we have copied from that wbsite into out <head> 
+
+ appbrewery.github.io/css-inspection/
